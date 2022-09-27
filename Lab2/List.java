@@ -6,7 +6,6 @@ import java.util.ListIterator;
 /**
  * Lab2.List interface for Data Structures and Files.
  * Use this interface for both Lab2.AList and LinkedList implementation.
- * @author Stephen J. Weierman
  */
 public interface List<T> extends Iterable<T> {
     public boolean add(int index, T obj);

@@ -8,7 +8,7 @@ import java.util.Arrays;
  * An array-based list data structure. For this implementation, please use the
  * inculded Lab2.List.java interface, and <b>not</b> java.util.Lab2.List.
  * @author Stephen J. Weierman
- * @author YOUR NAME HERE
+ * @author Connor Smith
  */
 public class AList<T> implements List<T> {
     private int size;
