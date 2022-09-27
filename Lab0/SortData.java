@@ -9,6 +9,7 @@ public class SortData {
     public static void main(String[] args) {
         int [] numbers = new int[100];
 
+
         //TODO: Get Input from input.txt, store values in array
         File inputFile = new File("input.txt");
         if (inputFile.exists()) {
