@@ -14,6 +14,7 @@ public class ListDriver {
         for (String name : names) {
             System.out.println(name);
         }
+
         System.out.println("index of Bob (should be 1): " + names.indexOf("Bob") );
         System.out.println("last index of Bob (should be 5): " + names.lastIndexOf("Bob"));
         System.out.println("contains Eve (should be true): " + names.contains("Eve"));
